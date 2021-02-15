@@ -1,7 +1,9 @@
 Authors
 ------------------------
-Viren Bajaj,  
-Dylan Steele, 
+Viren Bajaj, 
+
+Dylan Steele,
+
 Can Bostanci.
 
 ## Description 
